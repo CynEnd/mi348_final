@@ -6,8 +6,6 @@ body{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    flex: 1 1 1;
-
 }
 
 .Header{
@@ -19,7 +17,6 @@ body{
     margin: 10px;
     font-size: 30px;
     font-family: Monospace;
-    font: "Courier New";
 }
 
 .Navigation{
